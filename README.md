@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I’m Ayoub 👋
 
-<!--
-**LaouadAyoub/LaouadAyoub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### .NET Software Engineer · Backend Developer
 
-Here are some ideas to get you started:
+I’m a curious software engineer with four years of experience building and maintaining business applications in enterprise environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My center of gravity is backend .NET—APIs, integrations, data, asynchronous messaging and software delivery—but I’m comfortable contributing across the product when useful.
+
+I care about understanding the systems I work on, making thoughtful technical decisions and building useful software with people who take pride in their craft.
+
+## Selected work
+
+* **[AyShort](https://github.com/LaouadAyoub/AyShort)** — C#/.NET URL shortener built with hexagonal architecture and vertical slices, featuring PostgreSQL persistence, Redis caching and click statistics.
+* **[.NET Learning Lab](https://github.com/LaouadAyoub/dotnet-learning-lab)** — Hands-on C#/.NET experiments and visual notes exploring language fundamentals, asynchronous execution, application design and runtime behavior.
+
+## Technologies
+
+C# · .NET · ASP.NET Core · EF Core · PostgreSQL · SQL Server · Redis · Kafka · RabbitMQ · REST APIs · Docker · GitHub Actions · Azure DevOps
+
+## Find me
+
+[LinkedIn](https://www.linkedin.com/in/laouad-ayoub/)
+
+---
+
+*Calm repetition under stable conditions creates inevitable mastery.*
