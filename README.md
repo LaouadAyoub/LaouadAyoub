@@ -15,7 +15,7 @@ I care about understanding the systems I work on, making thoughtful technical de
 
 ## Technologies
 
-C# · .NET · ASP.NET Core · EF Core · PostgreSQL · SQL Server · Redis · Kafka · RabbitMQ · REST APIs · Docker · GitHub Actions · Azure DevOps
+C# · .NET · ASP.NET Core · EF Core · PostgreSQL · SQL Server · Redis · Kafka · RabbitMQ · Azure Service Bus · REST APIs · Docker · GitHub Actions · Azure DevOps
 
 ## Find me
 
