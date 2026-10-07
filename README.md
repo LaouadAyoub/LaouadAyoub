@@ -10,7 +10,7 @@ I care about understanding the systems I work on, making thoughtful technical de
 
 ## Selected work
 
-* **[MealGenius](https://github.com/LaouadAyoub/MealGenius)** — ASP.NET Core backend for a personalized meal-planning product I built in 2023–2024. Integrates RabbitMQ background processing, PostgreSQL, OpenAI, Azure Blob Storage, Stripe and transactional email. I designed and developed the backend and integrated it with a separately commissioned frontend.
+* **[MealGenius](https://github.com/LaouadAyoub/MealGenius)** — ASP.NET Core backend for a personalized meal-planning product I built in 2024. Integrates RabbitMQ background processing, PostgreSQL, OpenAI, Azure Blob Storage, Stripe and transactional email. I designed and developed the backend and integrated it with a separately commissioned frontend.
 
 * **[AyShort](https://github.com/LaouadAyoub/AyShort)** — C#/.NET URL shortener built with hexagonal architecture and vertical slices, featuring PostgreSQL persistence, Redis caching and click statistics.
 
