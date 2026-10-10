@@ -14,7 +14,7 @@ I care about understanding the systems I work on, making thoughtful technical de
 
 * **[.NET Learning Lab](https://github.com/LaouadAyoub/dotnet-learning-lab)** — Hands-on C#/.NET experiments and visual notes exploring language fundamentals, asynchronous execution, application design and runtime behavior.
 
-* **[MealGenius](https://github.com/LaouadAyoub/MealGenius)** — ASP.NET Core backend for a personalized meal-planning product I built in 2024. Integrates RabbitMQ background processing, PostgreSQL, OpenAI, Azure Blob Storage, Stripe and transactional email. I designed and developed the backend and integrated it with a separately commissioned frontend.
+* **[MealGenius](https://github.com/LaouadAyoub/MealGenius)** — ASP.NET Core backend for a personalized meal-planning product I built in 2024. Integrates RabbitMQ background processing, PostgreSQL, OpenAI, Azure Blob Storage, Stripe and transactional email. I designed and developed the backend and integrated it with a separated frontend UI.
 
 ## Technologies
 
