@@ -4,7 +4,7 @@
 
 I’m a curious software engineer with four years of experience building and maintaining business applications in enterprise environments.
 
-My main focus is backend .NET: APIs, integrations, data, asynchronous messaging and software delivery. I’m also comfortable contributing across the product when useful.
+My main focus is backend .NET: APIs, integrations, data, asynchronous messaging and software delivery. I also build React interfaces for my projects, using TypeScript to connect them to the backend.
 
 I care about understanding the systems I work on, making thoughtful technical decisions and building useful software with people who take pride in their craft.
 
@@ -18,7 +18,7 @@ I care about understanding the systems I work on, making thoughtful technical de
 
 ## Technologies
 
-C# · .NET · ASP.NET Core · EF Core · PostgreSQL · SQL Server · Redis · Kafka · RabbitMQ · Azure Blob Storage · REST APIs · Docker · GitHub Actions · Azure DevOps
+C# · .NET · ASP.NET Core · EF Core · PostgreSQL · SQL Server · Redis · Kafka · RabbitMQ · Azure Blob Storage · REST APIs · Docker · GitHub Actions · Azure DevOps · React · TypeScript · JavaScript · HTML · CSS
 
 ## Find me
 
