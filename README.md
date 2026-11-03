@@ -12,7 +12,7 @@ I care about understanding the systems I work on, making thoughtful technical de
 
 * **[AyShort](https://github.com/LaouadAyoub/AyShort)** — C#/.NET URL shortener built with hexagonal architecture and vertical slices, featuring PostgreSQL persistence, Redis caching and click statistics. Includes a responsive React and TypeScript interface for creating short links, with validation, loading and error feedback.
 
-* **[MealGenius](https://github.com/LaouadAyoub/MealGenius)** — MealGenius — AI-assisted meal-planning application built with ASP.NET Core and React. I led the project from concept to launch, developed the backend, integrated OpenAI for personalised meal generation, and contributed to the React interface. Features include asynchronous background processing, PostgreSQL persistence, Azure Blob Storage, Stripe payments and transactional email.
+- [MealGenius](https://github.com/LaouadAyoub/MealGenius) — AI-assisted meal-planning app built with ASP.NET Core and React. Generates personalised meals using OpenAI, with background processing, PostgreSQL, Azure Blob Storage, Stripe payments and transactional email. [Live preview](https://mealgenius-ayoub.vercel.app/).
 
 * **[.NET Learning Lab](https://github.com/LaouadAyoub/dotnet-learning-lab)** — Hands-on C#/.NET experiments and visual notes exploring language fundamentals, asynchronous execution, application design and runtime behavior.
 
