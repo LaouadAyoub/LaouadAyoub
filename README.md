@@ -11,7 +11,7 @@ I care about understanding the systems I work on, making thoughtful technical de
 ## Selected work
 
 - [AyShort](https://github.com/LaouadAyoub/AyShort) — URL shortener built with ASP.NET Core and React/TypeScript, using hexagonal architecture and vertical slices. Features PostgreSQL persistence, automated tests and GitHub Actions CI. The interface creates short links with loading and error feedback; the API also supports custom aliases, expiration and access statistics. [Live demo](https://app.ayshort.cc/).
-- 
+  
 - [MealGenius](https://github.com/LaouadAyoub/MealGenius) — AI-assisted meal-planning app built with ASP.NET Core and React. Generates personalised meals using OpenAI, with background processing, PostgreSQL, Azure Blob Storage, Stripe payments and transactional email. [Live preview](https://mealgenius-ayoub.vercel.app/).
 
 * **[.NET Learning Lab](https://github.com/LaouadAyoub/dotnet-learning-lab)** — Hands-on C#/.NET experiments and visual notes exploring language fundamentals, asynchronous execution, application design and runtime behavior.
